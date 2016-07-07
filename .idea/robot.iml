@@ -2,8 +2,13 @@
 <module type="CPP_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/test.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/util/robot_util.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/util/playsound.c" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/start.c" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/head/robot_header.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/head/brain.c" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
