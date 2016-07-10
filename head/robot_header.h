@@ -17,6 +17,7 @@ typedef struct _Position {
 /**
  * 接收蛋白质类型，用于蛋白质匹配
  * */
+ //TODO 对于每个信息，都需要计算一个值，用于快速定位所匹配的蛋白质？
 typedef struct _MatchingProtein {
     int type;
     //蛋白质类型，首选匹配，也可以作为索引使用
